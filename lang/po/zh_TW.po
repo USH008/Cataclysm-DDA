@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: cdda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 13:17+0300\n"
-"PO-Revision-Date: 2014-12-18 14:45+0000\n"
-"Last-Translator: ZERO330 <zero330xd@gmail.com>\n"
+"PO-Revision-Date: 2014-12-22 03:54+0000\n"
+"Last-Translator: Julian <HK.JulianLau@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2014-12-19 06:29+0000\n"
+"X-Launchpad-Export-Date: 2014-12-22 03:54+0000\n"
 "X-Generator: Launchpad (build 17286)\n"
 
 #: lang/json/AMMO_from_json.py
@@ -1075,7 +1075,7 @@ msgstr "一個 40mm 榴彈發射後的大彈殼。"
 msgid ""
 "A large metal disc surrounded by 7 sharp blades. It's as menacing as it "
 "sounds."
-msgstr ""
+msgstr "一個被七把利刃包圍著的大型金屬圓盤，聽起來都令人膽顫心驚。"
 
 #: lang/json/AMMO_from_json.py
 msgid "A large plastic dart made for outdoor games."
@@ -3630,6 +3630,7 @@ msgid ""
 "A 43-man squamish jersey made of thick material imprinted with the logo of "
 "the Gainesville Veeblefetzers."
 msgstr ""
+"一件厚身的43人斯闊米甚球衣，上面印有Gainesville Veeblefetzers的標誌。"
 
 #: lang/json/ARMOR_from_json.py
 msgid ""
@@ -39461,7 +39462,7 @@ msgstr "離開世界創造畫面"
 
 #: lang/json/keybinding_from_json.py
 msgid "Filter"
-msgstr "過濾"
+msgstr "篩選"
 
 #: lang/json/keybinding_from_json.py
 msgid "Fire Weapon"
@@ -39669,7 +39670,7 @@ msgstr ""
 
 #: lang/json/keybinding_from_json.py
 msgid "Pick random world name"
-msgstr "抽選隨機世界名稱"
+msgstr "隨機抽選世界名稱"
 
 #: lang/json/keybinding_from_json.py
 msgid "Pick up Item(s)"
@@ -39737,7 +39738,7 @@ msgstr "重新命名車輛"
 
 #: lang/json/keybinding_from_json.py
 msgid "Repair part"
-msgstr "修理部位"
+msgstr "修理部件"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reroll Random Character"
@@ -39745,11 +39746,11 @@ msgstr "重擲隨機角色"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reroll Random Character With Scenario"
-msgstr "重擲有劇情的隨機角色"
+msgstr "重擲隨機角色和劇情"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reset filter"
-msgstr "重置過濾器"
+msgstr "重置篩選"
 
 #: lang/json/keybinding_from_json.py
 msgid "Resize"
@@ -39761,7 +39762,7 @@ msgstr "存檔並退出"
 
 #: lang/json/keybinding_from_json.py
 msgid "Save mods as default"
-msgstr "將使用模組儲存為預設"
+msgstr "儲存為預設模組"
 
 #: lang/json/keybinding_from_json.py
 msgid "Save template"
@@ -56964,7 +56965,7 @@ msgstr "%s; 輸入新字母。"
 #: src/bionics.cpp
 #, c-format
 msgid ", %d PU / %d turns"
-msgstr ""
+msgstr "%d 能量 / %d 回合"
 
 #: src/bionics.cpp
 #, c-format
@@ -56978,7 +56979,7 @@ msgstr ""
 
 #: src/bionics.cpp
 msgid ", ON"
-msgstr ""
+msgstr ", 啟動"
 
 #: src/bionics.cpp
 msgid ""
@@ -79661,12 +79662,12 @@ msgstr "按 %1$s 來換成 %2$s(男性)。"
 #: src/newcharacter.cpp
 #, c-format
 msgid "Press %s to finish character creation or %s to go back."
-msgstr "按 %s 來創造角色或 %s 來返回。"
+msgstr "按 %s 來完成角色創造或 %s 來返回。"
 
 #: src/newcharacter.cpp
 #, c-format
 msgid "Press %s to pick a random name."
-msgstr "按 %s 來隨機挑選名字。"
+msgstr "按 %s 來隨機生成姓名。"
 
 #: src/newcharacter.cpp
 #, c-format
@@ -79677,7 +79678,7 @@ msgstr "按下 %s 把這個角色儲存成模版。"
 #, c-format
 msgid ""
 "Press %s to save character template, %s to re-roll or %s for random scenario."
-msgstr "按 %s 來儲存角色模版， %s 來"
+msgstr "按 %s 來儲存角色模版， %s 來重擲或 %s 隨機選擇劇情"
 
 #: src/newcharacter.cpp
 #, c-format
@@ -79976,15 +79977,15 @@ msgstr "憤怒: "
 
 #: src/npc.cpp
 msgid "Angry"
-msgstr "噴怒"
+msgstr "憤怒"
 
 #: src/npc.cpp
 msgid "Arsonist"
-msgstr ""
+msgstr "縱火犯"
 
 #: src/npc.cpp
 msgid "Attacking to kill"
-msgstr "殺你"
+msgstr "攻擊並殺戮"
 
 #: src/npc.cpp
 msgid "Best Friends Forever!"
@@ -80184,7 +80185,7 @@ msgstr "帶領"
 
 #: src/npc.cpp
 msgid "Merchant"
-msgstr ""
+msgstr "商人"
 
 #: src/npc.cpp
 msgid "Missing NPC"
@@ -80217,7 +80218,7 @@ msgstr "被激怒"
 
 #: src/npc.cpp
 msgid "Scavenger"
-msgstr ""
+msgstr "拾荒者"
 
 #: src/npc.cpp
 msgid "Scientist"
@@ -80249,7 +80250,7 @@ msgstr "認為你是無害並可笑的"
 
 #: src/npc.cpp
 msgid "Thug"
-msgstr ""
+msgstr "惡棍"
 
 #: src/npc.cpp
 msgid "Trader"
@@ -80347,7 +80348,7 @@ msgstr "你不可能做壞事！"
 
 #: src/npc.cpp
 msgid "You're good people"
-msgstr "你是好人"
+msgstr "你是個好人"
 
 #: src/npcmove.cpp
 #, c-format
