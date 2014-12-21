@@ -39457,11 +39457,11 @@ msgstr "離開畫面"
 
 #: lang/json/keybinding_from_json.py
 msgid "Exit worldgen screen"
-msgstr ""
+msgstr "離開世界創造畫面"
 
 #: lang/json/keybinding_from_json.py
 msgid "Filter"
-msgstr ""
+msgstr "過濾"
 
 #: lang/json/keybinding_from_json.py
 msgid "Fire Weapon"
@@ -39497,11 +39497,11 @@ msgstr "忽略附近的敵人"
 
 #: lang/json/keybinding_from_json.py
 msgid "Increase priority"
-msgstr ""
+msgstr "提高優先度"
 
 #: lang/json/keybinding_from_json.py
 msgid "Install part"
-msgstr ""
+msgstr "安裝部位"
 
 #: lang/json/keybinding_from_json.py
 msgid "List Notes"
@@ -39557,11 +39557,11 @@ msgstr "視角向西移動"
 
 #: lang/json/keybinding_from_json.py
 msgid "Move all items"
-msgstr ""
+msgstr "移動所有物品"
 
 #: lang/json/keybinding_from_json.py
 msgid "Move item"
-msgstr ""
+msgstr "移動物品"
 
 #: lang/json/keybinding_from_json.py
 msgid "Move item stack"
@@ -39581,11 +39581,11 @@ msgstr ""
 
 #: lang/json/keybinding_from_json.py
 msgid "Move selected mod down"
-msgstr ""
+msgstr "將選定模組向下移"
 
 #: lang/json/keybinding_from_json.py
 msgid "Move selected mod up"
-msgstr ""
+msgstr 將選定模組向上移""
 
 #: lang/json/keybinding_from_json.py
 msgid "Move shape"
@@ -39669,7 +39669,7 @@ msgstr ""
 
 #: lang/json/keybinding_from_json.py
 msgid "Pick random world name"
-msgstr ""
+msgstr "抽選隨機世界名稱"
 
 #: lang/json/keybinding_from_json.py
 msgid "Pick up Item(s)"
@@ -39733,27 +39733,27 @@ msgstr ""
 
 #: lang/json/keybinding_from_json.py
 msgid "Rename vehicle"
-msgstr ""
+msgstr "重新命名車輛"
 
 #: lang/json/keybinding_from_json.py
 msgid "Repair part"
-msgstr ""
+msgstr "修理部位"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reroll Random Character"
-msgstr ""
+msgstr "重擲隨機角色"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reroll Random Character With Scenario"
-msgstr ""
+msgstr "重擲有劇情的隨機角色"
 
 #: lang/json/keybinding_from_json.py
 msgid "Reset filter"
-msgstr ""
+msgstr "重置過濾器"
 
 #: lang/json/keybinding_from_json.py
 msgid "Resize"
-msgstr ""
+msgstr "調整大小"
 
 #: lang/json/keybinding_from_json.py
 msgid "Save and Quit"
@@ -39761,11 +39761,11 @@ msgstr "存檔並退出"
 
 #: lang/json/keybinding_from_json.py
 msgid "Save mods as default"
-msgstr ""
+msgstr "將使用模組儲存為預設"
 
 #: lang/json/keybinding_from_json.py
 msgid "Save template"
-msgstr ""
+msgstr "儲存模版"
 
 #: lang/json/keybinding_from_json.py
 msgid "Search"
@@ -79605,12 +79605,12 @@ msgstr "名字:"
 #: src/newcharacter.cpp
 msgctxt "set_profession_skill"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: src/newcharacter.cpp
 msgctxt "set_profession_trait"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: src/newcharacter.cpp
 msgid "None!"
@@ -79622,7 +79622,7 @@ msgstr "職業"
 
 #: src/newcharacter.cpp
 msgid "Pentjak Silat"
-msgstr ""
+msgstr "班卡席拉"
 
 #: src/newcharacter.cpp
 msgid ""
@@ -79661,7 +79661,7 @@ msgstr "按 %1$s 來換成 %2$s(男性)。"
 #: src/newcharacter.cpp
 #, c-format
 msgid "Press %s to finish character creation or %s to go back."
-msgstr ""
+msgstr "按 %s 來創造角色或 %s 來返回。"
 
 #: src/newcharacter.cpp
 #, c-format
@@ -79677,7 +79677,7 @@ msgstr "按下 %s 把這個角色儲存成模版。"
 #, c-format
 msgid ""
 "Press %s to save character template, %s to re-roll or %s for random scenario."
-msgstr ""
+msgstr "按 %s 來儲存角色模版， %s 來"
 
 #: src/newcharacter.cpp
 #, c-format
